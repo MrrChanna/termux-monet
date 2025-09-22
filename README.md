@@ -310,3 +310,12 @@ Users must post complete report (optionally without sensitive info) when reporti
     <img src="https://img.shields.io/github/forks/Termux-Monet/termux-monet?style=social"/>
   </a>
 </div>
+https://www.hetzner.com/cloud
+http://www.apache.org/licenses/
+Docs:       https://termux.dev/docs
+Donate:     https://termux.dev/donate
+Community:  https://termux.dev/community
+https://termux.dev/community
+https://github.com/termux/termux-packages/labels/android-12
+
+
